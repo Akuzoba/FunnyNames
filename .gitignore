@@ -1,0 +1,29 @@
+# Node modules (dependencies)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build output
+dist/
+build/
+
+# Cache and temporary files
+.cache/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Lock files (optional)
+
+yarn.lock
